@@ -1,0 +1,14 @@
+A00-B99 Certain infectious and parasitic diseases A00-B99
+C00-D48 Neoplasms C00-D48
+D50-D89 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism D50-D89
+E00-E90 Endocrine, nutritional and metabolic diseases E00-E90
+F00-F99 Mental and behavioural disorders F00-F99
+G00-G99 Diseases of the nervous system G00-G99
+H00-H59 Diseases of the eye and adnexa H00-H59
+H60-H95 Diseases of the ear and mastoid process H60-H95
+I00-I99 Diseases of the circulatory system I00-I99
+J00-J99 Diseases of the respiratory system J00-J99
+K00-K93 Diseases of the digestive system K00-K93
+L00-L99 Diseases of the skin and subcutaneous tissue L00-L99
+M00-M99 Diseases of the musculoskeletal system and connective tissue M00-M99
+N00-N99 Diseases of the genitourinary system N00-N99

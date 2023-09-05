@@ -1,0 +1,14 @@
+A00-B99 Infectious and Parasitic A00-B99
+C00-D48 Neoplasms C00-D48
+D50-D89 Blood and Immune D50-D89
+E00-E90 Endocrine/Nutritional/Metabolic E00-E90
+F00-F99 Mental and Behavioural F00-F99
+G00-G99 Nervous System G00-G99
+H00-H59 Eye and Adnexa H00-H59
+H60-H95 Ear and Mastoid Process H60-H95
+I00-I99 Circulatory System I00-I99
+J00-J99 Respiratory System J00-J99
+K00-K93 Digestive System K00-K93
+L00-L99 Skin/Subcutaneous Tissue L00-L99
+M00-M99 Musculoskeletal System M00-M99
+N00-N99 Genitourinary System N00-N99
