@@ -195,7 +195,7 @@ class Test_RMST(unittest.TestCase):
 
 class Test_enough_variants_have_resulted_in_death(unittest.TestCase):
     
-
+    @patch('pipeline_hes.params.params.ONLY_ONE_SEX','na')
     def test_enough_variants_have_resulted_in_death_FALSE(self):
         
         variants_part = pd.DataFrame()
@@ -205,6 +205,7 @@ class Test_enough_variants_have_resulted_in_death(unittest.TestCase):
         variants_part.loc[:98,'Mortality'] = 1
         self.assertFalse(trace_stats.enough_variants_have_resulted_in_death(variants_part))
 
+    @patch('pipeline_hes.params.params.ONLY_ONE_SEX','na')
     def test_enough_variants_have_resulted_in_death_TRUE(self):
         
         variants_part = pd.DataFrame()
